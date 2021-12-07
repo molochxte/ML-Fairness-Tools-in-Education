@@ -14,13 +14,13 @@ Additionally, Aequitas offers tutorials for visualizing different disparities ag
 
 **Resources:**
 
-Github: https://github.com/dssg/aequitas
+Github: [https://github.com/dssg/aequitas](https://github.com/dssg/aequitas)
 
-Web Application: http://aequitas.dssg.io/
+Web Application: [http://aequitas.dssg.io/](http://aequitas.dssg.io/)
 
-Tool Guide: http://www.datasciencepublicpolicy.org/our-work/tools-guides/aequitas/
+Tool Guide: [http://www.datasciencepublicpolicy.org/our-work/tools-guides/aequitas/](http://www.datasciencepublicpolicy.org/our-work/tools-guides/aequitas/)
 
-COMPAS Recidivism Risk Assessment Dataset: https://colab.research.google.com/github/dssg/aequitas/blob/update_compas_notebook/docs/source/examples/compas_demo.ipynb
+COMPAS Recidivism Risk Assessment Dataset: [https://colab.research.google.com/github/dssg/aequitas/blob/update_compas_notebook/docs/source/examples/compas_demo.ipynb](https://colab.research.google.com/github/dssg/aequitas/blob/update_compas_notebook/docs/source/examples/compas_demo.ipynb)
 
 
 ## AI Fairness 360
@@ -28,11 +28,11 @@ As a comprehensive toolkit, IBM’s AI Fairness 360, or AIF360, contains multipl
 
 **Resources**
 
-GitHub: https://github.com/Trusted-AI/AIF360
+GitHub: [https://github.com/Trusted-AI/AIF360](https://github.com/Trusted-AI/AIF360)
 
-Demo: http://aif360.mybluemix.net/data
+Demo: [http://aif360.mybluemix.net/data](http://aif360.mybluemix.net/data)
 
-Documentation: https://aif360.readthedocs.io/en/latest/
+Documentation: [https://aif360.readthedocs.io/en/latest/](https://aif360.readthedocs.io/en/latest/)
 
 
 
@@ -40,13 +40,14 @@ Documentation: https://aif360.readthedocs.io/en/latest/
 Dalex (moDel Agnositc Language for Exploration and eXplanation) is a an explainability tool created by ML2DataLab at Warsaw University of Technology and University of Warsaw. This project started in R and recently has been expanded to python. The Dalex Python package implements a main Explainer class to provide an abstract layer between distinct model API’s and the explainability and fairness methods.  Dalex comes with a full fairness tutorial on COMPAS recidivism and has a credit dataset based in Germany integrated within the package. Additionally, it provide tutorials for introductory explain-ability in AI to inform the appropriate methods available to explore a model.
 
 **Resources:**
-Website: https://dalex.drwhy.ai/
 
-Github: https://github.com/ModelOriented/DALEX 
+Website: [https://dalex.drwhy.ai/](https://dalex.drwhy.ai/)
 
-Tutorials: https://dalex.drwhy.ai/python/ 
+Github: [https://github.com/ModelOriented/DALEX](https://github.com/ModelOriented/DALEX) 
 
-Demo - COMPAS: https://dalex.drwhy.ai/python-dalex-fairness2.html
+Tutorials: [https://dalex.drwhy.ai/python/](https://dalex.drwhy.ai/python/) 
+
+Demo - COMPAS: [https://dalex.drwhy.ai/python-dalex-fairness2.html](https://dalex.drwhy.ai/python-dalex-fairness2.html)
 
 ## Fairlearn
 Fairless is a python tool developed by Microsoft to identify performance metrics on trained models. Fairlearn’s post-processing algorithms take an already-trained model and transform its predictions so that they satisfy the constraints implied by the selected fairness metric (e.g., demographic parity) while maximizing model performance (e.g., accuracy rate). 
@@ -55,11 +56,11 @@ For example, given a model that predicts the probability of defaulting on a loan
 
 **Resources:**
 
-Github: https://github.com/fairlearn/fairlearn
+Github: [https://github.com/fairlearn/fairlearn](https://github.com/fairlearn/fairlearn)
 
-Documentation: https://fairlearn.org/main/quickstart.html
+Documentation: [https://fairlearn.org/main/quickstart.html](https://fairlearn.org/main/quickstart.html)
 
-Demos (Download python notebooks): https://fairlearn.org/v0.7.0/auto_examples/index.html
+Demos (Download python notebooks): [https://fairlearn.org/v0.7.0/auto_examples/index.html](https://fairlearn.org/v0.7.0/auto_examples/index.html)
 
 
 ## Responsibly
@@ -69,26 +70,26 @@ Like the other tools we examined its first focus is on auditing biases and the s
 
 **Resources:**
 
-Github: https://github.com/ResponsiblyAI/responsibly
+Github: [https://github.com/ResponsiblyAI/responsibly](https://github.com/ResponsiblyAI/responsibly)
 
-Documentation: https://docs.responsibly.ai/
+Documentation: [https://docs.responsibly.ai/](https://docs.responsibly.ai/)
 
-Demo - COMPAS: https://docs.responsibly.ai/notebooks/demo-compas-analysis.html
+Demo - COMPAS: [https://docs.responsibly.ai/notebooks/demo-compas-analysis.html](https://docs.responsibly.ai/notebooks/demo-compas-analysis.html)
 
-Demo - Bias in Word Embedding: https://docs.responsibly.ai/notebooks/demo-word-embedding-bias.html
+Demo - Bias in Word Embedding: [https://docs.responsibly.ai/notebooks/demo-word-embedding-bias.html](https://docs.responsibly.ai/notebooks/demo-word-embedding-bias.html)
 
 ## What-if Tool
 The What-If Tool from Google is built into the open source TensorBoard Web application and allows users to analyze a machine learning model performance and fairness. With the What-If Tool, users can test algorithmic fairness constraints, visualize inference results. One of the niche features of this tool is that it allows users to edit a datapoint to see how a model performs. This is useful for identifying counterfactual points in datasets. It also incorporates some inseparability into the model by allowing users to visualize partial dependency plots. What-If Tool offers other interactivity with performance of a classifier model (Confusion matrix) and ability to adjust threshold values in an intuitive GUI. As the tool is incorporated into TensorFlow, it provides the most visual experience of the toolkits listed here and enables easy integration of deep neural network models such as those for Face Recognition
 
 **Resources:**
 
-Website: https://pair-code.github.io/what-if-tool/
+Website: [https://pair-code.github.io/what-if-tool/](https://pair-code.github.io/what-if-tool/)
 
-Github: https://github.com/pair-code/what-if-tool
+Github: [https://github.com/pair-code/what-if-tool](https://github.com/pair-code/what-if-tool)
 
-Google Group: https://groups.google.com/g/what-if-tool 
+Google Group: [https://groups.google.com/g/what-if-tool](https://groups.google.com/g/what-if-tool) 
 
 
-Explanation - UCI Census: https://pair-code.github.io/what-if-tool/learn/tutorials/walkthrough/
+Explanation - UCI Census: [https://pair-code.github.io/what-if-tool/learn/tutorials/walkthrough/](https://pair-code.github.io/what-if-tool/learn/tutorials/walkthrough/)
 
-Demo - UCI Census: https://colab.research.google.com/github/pair-code/what-if-tool/blob/master/WIT_Model_Comparison.ipynb
+Demo - UCI Census: [https://colab.research.google.com/github/pair-code/what-if-tool/blob/master/WIT_Model_Comparison.ipynb](https://colab.research.google.com/github/pair-code/what-if-tool/blob/master/WIT_Model_Comparison.ipynb)
